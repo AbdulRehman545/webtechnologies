@@ -1,0 +1,33 @@
+
+.card{
+margin: 30px;
+border: none;
+background-color: rgb(185, 194, 194);
+opacity: 0.9;
+height: 450px;
+text-align: center;
+}
+.card img{
+    height: 300px;
+}
+.btns{
+    background-color: rgb(233, 230, 227);
+    color: black;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   border: none;
+}
+.btns:hover{
+background-color: rgb(224, 195, 99);
+transition: 0.6s;
+
+}
+.display-4{
+    text-align: center;
+}
+.play{
+    text-align: center;
+}
+a:hover{
+    text-decoration: none;
+}
